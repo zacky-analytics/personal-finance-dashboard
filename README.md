@@ -1,3 +1,13 @@
+## Dashboard Preview
+
+### Power BI Dashboard
+
+![Power BI Dashboard](powerbi-dashboard.png)
+
+### Excel Dashboard
+
+![Excel Dashboard](excel-dashboard.png)
+
 # Personal Finance Dashboard
 
 A personal finance analysis project built using Excel and Microsoft Power BI. The project analyzes six months of income, expenses, savings, and cash flow from January to June 2026.
